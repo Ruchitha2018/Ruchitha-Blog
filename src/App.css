@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+ font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+ background-color: #512B81 !important;
+}
+
+.main-heading {
+ color: #E1AA74 !important;
+}
+
+.list-group-item a {
+ color: #000;
+ text-decoration: none;
+}
+
+.number-circle {
+ background: #512B81;
+ color: #fff;
+ border-radius: 50%;
+ height: 25px;
+ width: 25px;
+ text-align: center;
+ justify-content: center;
+ display: flex;
+ align-items: center;
+ margin-right: 05px;
+}
