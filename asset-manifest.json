@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ruchitha-Blog/static/css/main.9e4c2e34.css",
+    "main.js": "/Ruchitha-Blog/static/js/main.be64a08a.js",
+    "static/js/787.ba8b3d83.chunk.js": "/Ruchitha-Blog/static/js/787.ba8b3d83.chunk.js",
+    "index.html": "/Ruchitha-Blog/index.html",
+    "main.9e4c2e34.css.map": "/Ruchitha-Blog/static/css/main.9e4c2e34.css.map",
+    "main.be64a08a.js.map": "/Ruchitha-Blog/static/js/main.be64a08a.js.map",
+    "787.ba8b3d83.chunk.js.map": "/Ruchitha-Blog/static/js/787.ba8b3d83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4c2e34.css",
+    "static/js/main.be64a08a.js"
+  ]
+}
