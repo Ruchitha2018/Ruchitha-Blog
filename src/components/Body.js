@@ -6,7 +6,7 @@ const Body = () => {
  return (
   <>
    <Header />
-   <h1><Link to="/tag-input-field">React Coding Questions</Link></h1>
+   <h6><Link to="/react-coding">React Coding Questions</Link></h6>
    <Outlet />
   </>
  )
