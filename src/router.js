@@ -7,6 +7,7 @@ import Toggle from './components/ReactCodingQuestions/Toggle'
 
 import ReactCoding from './components/ReactCoding';
 import TagInputField from './components/ReactCodingQuestions/TagInputField';
+import ReduxToolkit from './components/ReduxToolkit';
 
 const router = createBrowserRouter([
   {
@@ -16,6 +17,10 @@ const router = createBrowserRouter([
       {
         path: "/react-coding",
         element: <ReactCoding />,
+      },
+      {
+       path: "/redux-toolkit",
+       element: <ReduxToolkit />
       },
       {
         path: "/show-hide-password",

@@ -1,0 +1,17 @@
+.todo-input-control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.todo-input-control .btn {
+    white-space: nowrap;
+    background-color: #512B81 !important;
+    border: 1px solid #512B81 !important
+}
+.todo-list .list-group-item {
+    display: flex;
+    justify-content: space-between;
+}
+.cursor-pointer {
+    cursor: pointer;
+}

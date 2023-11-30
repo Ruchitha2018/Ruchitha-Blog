@@ -12,6 +12,9 @@ const Header = () => {
           <li className="nav-item">
             <Link className="nav-link" to="/react-coding">React Coding Questions</Link>
           </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/redux-toolkit">Redux Toolkit</Link>
+          </li>
         </ul>
       </div>
     </nav>
