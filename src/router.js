@@ -8,6 +8,8 @@ import Toggle from './components/ReactCodingQuestions/Toggle'
 import ReactCoding from './components/ReactCoding';
 import TagInputField from './components/ReactCodingQuestions/TagInputField';
 import ReduxToolkit from './components/ReduxToolkit';
+import Pagination from './components/ReactCodingQuestions/Pagination';
+import InfiniteScrolling from './components/ReactCodingQuestions/InfiniteScrolling';
 
 const router = createBrowserRouter([
   {
@@ -33,6 +35,14 @@ const router = createBrowserRouter([
       {
         path: "/tag-input-field",
         element: <TagInputField />
+      },
+      {
+        path: "/pagination",
+        element: <Pagination />
+      },
+      {
+        path: "/infinite-scrolling",
+        element: <InfiniteScrolling />
       }
     ]
   },
